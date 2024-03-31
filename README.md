@@ -28,11 +28,10 @@ This rich dataset provides ample opportunities for exploration and analysis.
 
 Our analysis focused on a set of problems:
 
-[MUSIC_STORE_project_QUESTIONS.pdf](https://github.com/JeevikaSharma/Decoding_The_Beats-Analyzing_Music_Trends/files/14817818/MUSIC_STORE_project_QUESTIONS.pdf)
 
+![MUSIC_STORE_project_QUESTIONS image](https://github.com/JeevikaSharma/Decoding_The_Beats-Analyzing_Music_Trends/assets/157728038/372426eb-2e02-45c6-b1f7-34e874f93f5e)
 
-
-##The repository contains:
+## The repository contains:
 
 Dataset: The main dataset used in the analysis.
 
