@@ -4,7 +4,11 @@ Welcome to Decoding the Beats! This project involves the analysis of a dataset o
 
 
 ## Schema
+
+
 Schema of the Database is as folllows:
+
+
 ![MusicDatabaseSchema](https://github.com/JeevikaSharma/Decoding_The_Beats-Analyzing_Music_Trends/assets/157728038/2e7bff6e-714c-4c3b-b45b-b3a8d0fc9ed0)
 
 ## Dataset
@@ -33,11 +37,12 @@ Our analysis focused on a set of problems:
 
 ## The repository contains:
 
-Dataset: The main dataset used in the analysis.
 
-Music Store Analysis-Questions.pdf: Document containing the questions to be answered.
+Excel Files containing dataset: The main dataset used in the analysis.
 
-music_data_analysis.sql: SQL queries used to address the questions.
+Questions PDF: Document containing the questions to be answered.
 
-schema_diagram.png:Diagram of connections Between the tables
+SQL File: a file with SQL queries used to address the questions.
+
+Png File: Diagram of connections Between the tables
 
